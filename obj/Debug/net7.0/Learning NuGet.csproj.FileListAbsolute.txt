@@ -1,0 +1,17 @@
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\bin\Debug\net7.0\Learning NuGet.exe
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\bin\Debug\net7.0\Learning NuGet.deps.json
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\bin\Debug\net7.0\Learning NuGet.runtimeconfig.json
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\bin\Debug\net7.0\Learning NuGet.dll
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\bin\Debug\net7.0\Learning NuGet.pdb
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\obj\Debug\net7.0\Learning NuGet.csproj.AssemblyReference.cache
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\obj\Debug\net7.0\Learning NuGet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\obj\Debug\net7.0\Learning NuGet.AssemblyInfoInputs.cache
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\obj\Debug\net7.0\Learning NuGet.AssemblyInfo.cs
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\obj\Debug\net7.0\Learning NuGet.csproj.CoreCompileInputs.cache
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\obj\Debug\net7.0\Learning NuGet.dll
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\obj\Debug\net7.0\refint\Learning NuGet.dll
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\obj\Debug\net7.0\Learning NuGet.pdb
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\obj\Debug\net7.0\Learning NuGet.genruntimeconfig.cache
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\obj\Debug\net7.0\ref\Learning NuGet.dll
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\0xOri\OneDrive\Desktop\Learning NuGet\obj\Debug\net7.0\Learning NuGet.csproj.CopyComplete
